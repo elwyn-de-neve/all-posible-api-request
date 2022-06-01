@@ -1,0 +1,20 @@
+{
+  "name": "all-possible-api-request",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "devDependencies": {
+    "buffer": "^6.0.3",
+    "parcel": "^2.6.0",
+    "process": "^0.11.10"
+  }
+}
